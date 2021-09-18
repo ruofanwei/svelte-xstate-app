@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vite",
-    "build:dev": "vite build --mode development",
-    "build:prod": "vite build --mode production",
+    "build": "vite build",
     "serve": "vite preview",
     "lint": "eslint . --ext .js,.svelte --fix"
   },
